@@ -1,3 +1,4 @@
+#This is done by Adam Magoulas
 def encoder(code, encryption):
     code = str(code)
     code_list = list(code)
